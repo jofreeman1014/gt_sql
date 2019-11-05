@@ -4,7 +4,7 @@ This assignment focused on designing the tables to hold data in the CSVs, import
 
 After I looked through the .csv files, I used the ERD visualization tool [Quick Database Diagrams](http://www.quickdatabasediagrams.com) to develop my schema outside of PostgreSQL, and imported this model into PostgreSQL to start my tables.
 
-![jofschema](JOFschema.PNG)
+![jofschema](JOFschema.png)
 
 ## Data Analysis
 
