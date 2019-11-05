@@ -1,6 +1,6 @@
 # Georgia Tech Bootcamp - SQL/Database Exercises
 
-## [SQL Basics](https://github.com/jofreeman1014/gt_sql/tree/master/09%20-%20SQL)
+## [SQL Basics](https://github.com/jofreeman1014/gt_sql/tree/master/SQL)
 * Create a localhost connection to a PostgreSQL server and have successfully connect to it.
 * Create, use, and populate a SQL database with data.
 * Create, populate, and select data from a SQL table.
@@ -10,7 +10,7 @@
 * Solidify the foundations of writing basic- to intermediate-level SQL statements.
 * Develop an introductory understanding of table design and database management.
 
-## [SQLAlchemy](https://github.com/jofreeman1014/gt_sql/tree/master/10%20-%20Adv%20Data)
+## [SQLAlchemy](https://github.com/jofreeman1014/gt_sql/tree/master/SQLAlchemy)
 * Connect to a SQL database using SQLAlchemy.
 * Perform basic SQL queries using engine.execute().
 * Create Python classes and objects.
